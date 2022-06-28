@@ -1,0 +1,40 @@
+/* style.css */
+
+.big_title,
+h2 {
+    color: red;
+    background-color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 38px;
+}
+p {
+    color: black;
+    background-color: blue;
+    text-align: left;
+    font-size: 24px;
+}
+ul {
+    text-align:left;
+    font-size: 18px;
+    font-weight: bolder;
+}
+img {
+    width: 500px;
+    height: auto;
+
+}
+.ingredients {
+    background-color: aquamarine;
+    color: blueviolet;
+    font-weight: bold;
+}
+h2 {
+    color: green;
+    font-size: 24px;
+}
+ol {
+    color: blue;
+    background-color: red;
+
+}
